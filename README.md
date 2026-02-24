@@ -18,10 +18,10 @@ Moro em Jaú/SP e sou apaixonado por transformar ideias em código funcional.
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
 
 </div>
+<hr>
 
+## Contato 📧
 <div> 
-  
   <a href = "mailto:joaoguilhermediasp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-dias-pascolat-jaoguidias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
